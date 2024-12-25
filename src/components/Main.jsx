@@ -9,7 +9,7 @@ const Main = () => {
       img={entry.img} 
       title={entry.title}
       country={entry.country} 
-      googgleMapLink={entry.googgleMapLink} 
+      googleMapsLink={entry.googleMapsLink} 
       dates={entry.dates} text={entry.text} 
     />)
      }
